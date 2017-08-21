@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeasuresSavior", "MeasuresSavior\MeasuresSavior.csproj", "{30A65A26-63B2-40CF-87D0-61498C8C449C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30A65A26-63B2-40CF-87D0-61498C8C449C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A65A26-63B2-40CF-87D0-61498C8C449C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A65A26-63B2-40CF-87D0-61498C8C449C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A65A26-63B2-40CF-87D0-61498C8C449C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
